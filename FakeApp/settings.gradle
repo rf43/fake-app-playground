@@ -1,0 +1,1 @@
+include ':app', ':interactors', ':domain', ':data'

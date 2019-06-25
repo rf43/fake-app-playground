@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fake App Arch Playground</string>
+
+    <!-- Bottom Nav Menu Item Titles -->
+    <string name="menu_item_title_fake_location">Fake Location</string>
+    <string name="menu_item_title_fake_cats">Fake Cats</string>
+    <string name="menu_item_title_fake_notes">Fake Notes</string>
+
+    <string name="fake_app_loading">Fake App Loading…</string>
+</resources>

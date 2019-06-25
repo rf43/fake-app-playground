@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="request_new_location">Request new location</string>
+    <string name="there_are_no_results">There are no results…</string>
+    <string name="background_text">FakeApp\nTap the button to generate fake locations</string>
+</resources>
